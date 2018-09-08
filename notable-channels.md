@@ -20,6 +20,6 @@ To join a channel, type `/join <name of channel>` into your IRC client.
 | #xeroxIRC             | Network chat.                                        |
 
 [#BlockySurvival]:      https://mt.packets4hire.com
-[#IdleRPG]:             {{ site.swi_baseurl }}/irpg
+[#IdleRPG]:             {{ site.irpg_baseurl }}/irpg
 [#ls-servers]:          https://forum.minetest.net/viewtopic.php?f=10&t=19903
 [#minetest-kingdoms]:   https://forum.minetest.net/viewtopic.php?f=10&t=14587

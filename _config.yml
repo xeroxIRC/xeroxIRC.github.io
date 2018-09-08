@@ -21,12 +21,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: UTC
 permalink: /posts/:year-:month-:day_:title
 server_map: https://www.google.com/maps/d/u/0/embed?mid=1Z19gVD9VICsw5tPp7EtJUA0OTFyUnL8z&ll=30.983999006823808%2C-77.4755849375&z=2
-swi_baseurl: https://gb.xeroxirc.net
+swi_baseurl: https://ca.xeroxirc.net
+irpg_baseurl: https://gb.xeroxirc.net
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 sass:
     style: compressed
