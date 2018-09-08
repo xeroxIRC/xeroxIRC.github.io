@@ -1,0 +1,41 @@
+WELCOME TO...                                           \c02ooooo ooooooooo.     .oooooo.
+                                                        \c02`888' `888  `Y88.  d8P'  `Y8b
+   \c15oooo    ooo  \c02.ooooo.  \c14oooo d8b  \c11.ooooo.  \c15oooo    ooo  \c02888   888   .d88' 888
+    \c15`88b..8P'  \c02d88' `88b \c14`888""8P \c11d88' `88b  \c15`88b..8P'   \c02888   888ooo88P'  888
+      \c15Y888'    \c02888ooo888  \c14888     \c11888   888    \c15Y888'     \c02888   888`88b.    888
+    \c15.o8"'88b   \c02888    .o  \c14888     \c11888   888  \c15.o8"'88b    \c02888   888  `88b.  `88b    ooo
+   \c15o88'   888o \c02`Y8bod8P' \c14d888b    \c11`Y8bod8P' \c15o88'   888o \c02o888o o888o  o888o  `Y8bood8P' \x
+   
+THIS SERVER'S INFORMATION: \b• Location: London, UK\x
+                           \b• Port(s) : 6667, SSL 6697\x
+                           \b• Admin(s): xerox123\x
+
+\b\c04TERMS OF SERVICE:\x
+
+\c04By connecting to this network, you agree to all of the below.\x
+\c04If you disagree to any of the following, please disconnect now...\x
+
+1)  Network staff may disconnect clients for when rules are being broken.
+2)  No use of botnets.
+3)  No network/channel ban evasion.
+4)  If a member of Network staff says something isn't allowed, it ISN'T allowed.
+5)  No spamming/flooding/AMSGing.
+6)  No channel takeovers.
+7)  A member of Network staff may join a channel with +Y when network rules are
+    suspected of being broken.
+8)  No harassing other users.
+9)  You are responsible for all actions you take.
+10) No abuse of proxies/VPNs. Such uses must be reported in #staff
+11) Valid E-Mails must be used when registering. Disposable E-Mails are \bNOT\b allowed.
+
+\bUsage of this network is a privilege, not a right.\x
+\bxeroxIRC takes no responsibility for your actions.\x
+\bn00by behaviour is discouraged in many channels.\x
+\bResistance is futile™. -- Plebs 2018\x
+
+These Terms of Service can be found at https://www.xeroxirc.net/tos or /MOTD
+
+OFFICIAL LINKS: • \bOfficial Network Channels\x can be found at\b https://www.xeroxirc.net/channels \x
+                • \bOfficial Network Staff\x can be found at\b https://www.xeroxirc.net/staff \x
+				
+\bLike Idling? Check out \c04#IdleRPG\c or see\c04 https://gb.xeroxirc.net/irpg/ \x

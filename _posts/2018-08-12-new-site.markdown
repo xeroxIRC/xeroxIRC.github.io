@@ -1,0 +1,12 @@
+---
+layout: post
+title:  New website
+date:   2018-08-12 05:15:58 +0000
+---
+
+The xeroxIRC website has been updated, and is now using Jekyll!
+
+All the old WordPress links will continue to function, and will redirect to the
+new URLs.
+
+The new site design is copyright © 2018 by luk3yx. All rights reserved.

@@ -1,0 +1,26 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    <div id="title">
+        <h2>
+            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </h2>
+    </div>
+    
+    <nav>
+        {% include pagelist.html %}
+    </nav>
+    
+    <main class="container">
+        {{ content }} 
+    </main>
+</body>
+
+</html>

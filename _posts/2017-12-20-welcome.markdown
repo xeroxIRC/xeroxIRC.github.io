@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Welcome
+date:   2017-12-20
+---
+
+Welcome to xeroxIRC's site!
+
+This site is still in construction, so you may see empty to half-complete pages or the site looking a little weird at times.

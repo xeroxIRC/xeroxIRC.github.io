@@ -1,0 +1,16 @@
+{% assign pages = site.pages | sort: "navbar-index" %}
+{% assign first = "true" %}
+
+<div>
+    {% for p in pages %}
+        {% if p.navbar-index %}
+            {% if first == "false" %}
+                <span class="navsep"> | </span>
+            {% endif %}
+            <span><a href="{{ site.baseurl }}{{ p.url | remove: '.html' }}" {%
+                if p.url == page.url %}class="primary"{% endif
+                %}>{{ p.title }}</a></span>
+            {% assign first = "false" %}
+        {% endif %}
+    {% endfor %}
+</div>

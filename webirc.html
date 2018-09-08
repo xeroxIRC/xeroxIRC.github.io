@@ -1,0 +1,44 @@
+---
+title: Web-based IRC
+layout: page
+navbar-index: 10
+ads: true
+---
+
+{{ site.title }} offers an easy to use web-based IRC client,
+<a href="https://thelounge.chat"><img src="https://nz.xeroxirc.net/img/favicon-normal.ico" class="icon" />The Lounge</a>.
+
+<br/><br/>
+
+
+<iframe src="https://nz.xeroxirc.net">
+    <h5>Your browser doesn't support iframes.</h5>
+    Use the "New window" link below.
+</iframe>
+
+<br/>
+
+<script>
+var frame = document.getElementsByTagName('iframe')[0];
+
+function loadframe() {
+    frame.removeAttribute('sandbox');
+    frame.src = frame.src;
+    return false;
+}
+
+function fullscreen() {
+    if (frame.requestFullscreen) {
+        frame.requestFullscreen();
+    } else if (frame.mozRequestFullScreen) {
+        frame.mozRequestFullScreen();
+    } else if (frame.webkitRequestFullscreen) {
+        frame.webkitRequestFullscreen();
+    } else {
+        alert("Your browser does not seem to support fullscreen!");
+    }
+}
+</script>
+
+<button class="button-primary" onclick="fullscreen()">Fullscreen</button>
+<a class="button" href="https://nz.xeroxirc.net" target="_blank">New window</a>
