@@ -13,15 +13,16 @@ network. They have full access to the IRCd.
 
 ##### Global Operator(s):
 
-- longerstaff13
 - garywhite
+- longerstaff13
 
 Global OPs are responsible for helping users and ensuring network rules are being followed at all times.
 
 ##### Server Administrator(s):
 
-- luk3yx
+- bigfoot
 - DI3HARD139
 - jcjordyn120
+- luk3yx
 
 Server Admins are responsible for managing server infrastructure.
