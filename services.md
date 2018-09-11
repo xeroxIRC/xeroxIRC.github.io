@@ -21,15 +21,15 @@ In order to make the most out of our services you must register with NickServ. R
 /msg NickServ REGISTER <password> <email-address>
 ~~~
 
-*This creates an account to which you can group other nicks to. The Email MUST be verifiable and not disposable, as per our [ToS]({{ site.baseurl }}/tos).*
+*This creates an account to which you can group other nicks to. The email MUST be verifiable and not disposable, as per our [ToS]({{ site.baseurl }}/tos).*
 
-##### Verifying an Email
+##### Verifying an email
 
 Inorder to fully register your nick you must verify the email you used. Visit the email you provided and check for an email from us and follow the instructions in the email. **Be sure to check the spam folder too.** Issues? Ask in #help.
 
 ##### Identifying to a nick
 
-Once you’ve registered your nick, you must identify to it in order to access your account. To identify enter:
+Once you've registered your nick, you must identify to it in order to access your account. To identify enter:
 
 ~~~
 /msg NickServ IDENTIFY <password>
@@ -39,7 +39,7 @@ Once you’ve registered your nick, you must identify to it in order to access y
 
 ##### Claiming a vHost
 
-xeroxIRC offers virtual hosts. They are in the form xIRC/user/<nick>. To claim your host enter:
+xeroxIRC offers virtual hosts. They are in the form `xIRC/user/<nick>`. To claim your host enter:
 
 ~~~
 /msg HostServ TAKE xIRC/user/$account
@@ -79,13 +79,13 @@ All you need to do to register a channel is:
 /msg ChanServ REGISTER #<name-of-channel>
 ~~~
 
-And that’s it! ChanServ should join and set owner mode (+q) on you.
+And that's it! ChanServ should join and set owner mode (+q) on you.
 
 ##### Automatically giving someone ops
 
-If you don’t know already, opping someone (setting mode +o) means they can kick or ban users, change the topic, and modify channel modes.
+If you don't know already, opping someone (setting mode +o) means they can kick or ban users, change the topic, and modify channel modes.
 
-Once you’ve registered a channel, you can give certain people ops. They will need to have a NickServ account for this to work properly.
+Once you've registered a channel, you can give certain people ops. They will need to have a NickServ account for this to work properly.
 
 You need to say this on the channel to give someone auto-ops:
 
@@ -226,4 +226,4 @@ Still confused? Join #help and ask us for advice. No-one around to help? Create 
 /msg HelpServ HELP <what you would like help with>
 ~~~
 
-*We’ll get back to you ASAP.*
+*We'll get back to you ASAP.*
