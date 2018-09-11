@@ -137,7 +137,7 @@ For example, if you want to auto-voice all users identified with NickServ, you c
 
 ##### Making the topic persist
 
-When you set a topic on your channel (with*/topic <topic>*), it is displayed to all users, new and existing. However, during server reboots, or when the channel is empty, the topic is lost. You may tell ChanServ to keep the topic by doing:
+When you set a topic on your channel (with `/topic <topic>`), it is displayed to all users, new and existing. However, during server reboots, or when the channel is empty, the topic is lost. You may tell ChanServ to keep the topic by doing:
 
 ~~~
 !set keeptopic on
@@ -149,7 +149,7 @@ Alternatively, you can prevent anyone but you (and people with the +t flag) chan
 !set topiclock on
 ~~~
 
-After you do that, instead of*/topic*, you and people with access must change the topic by doing:
+After you do that, instead of `/topic`, you and people with access must change the topic by doing:
 
 ~~~
 !topic <new-topic>
