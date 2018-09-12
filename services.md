@@ -98,10 +98,18 @@ This gives the user the flags +O and +o. +O makes ChanServ op them when they joi
 If you want to see who has auto-ops, you can list the flags by saying this on the channel:
 
 ~~~
-!flags
+!flags +Oo
 ~~~
 
-It should display a list of users and flags to you.
+*You can also see who has other flags, just append other flags to the query (such as +b to see all users banned from the channel).*
+
+It should display a list of users with flags +Oo to you.
+
+To list all flags, you can remove specific flags from your query like so:
+
+~~~
+!flags
+~~~
 
 ##### Removing auto-ops from someone
 
