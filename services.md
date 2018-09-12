@@ -127,7 +127,7 @@ If you would like to auto-op network staff, you can do:
 !flags $oper +Oo
 ~~~
 
-*This is an EXTTARGET. EXTTARGETs allow you to set flags on a more general group of users. Other targets (such as $registered) allow you to apply flags to all identified users.*
+*This is an EXTTARGET. EXTTARGETs allow you to set flags on a more general group of users. Another target,  `$registered` allows you to apply flags to all identified users.*
 
 For example, if you want to auto-voice all users identified with NickServ, you can do:
 
