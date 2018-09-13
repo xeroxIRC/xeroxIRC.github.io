@@ -26,5 +26,3 @@ The servers can be directly connected to using the following addresses:
     <a href="{{ site.server_map }}">Your browser doesn't support iframes,
     click here to view the map.</a>
 </iframe>
-
-*This map may not reflect the current configuration of the server links.*
