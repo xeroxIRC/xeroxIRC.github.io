@@ -39,7 +39,7 @@ Once you've registered your nick, you must identify to it in order to access you
 
 ##### Claiming a vHost
 
-xeroxIRC offers virtual hosts. They are in the form `xIRC/user/<nick>`. To claim your host enter:
+xeroxIRC offers virtual hosts. They are in the form `xIRC/user/<account-name>`. To claim your host enter:
 
 ~~~
 /msg HostServ TAKE xIRC/user/$account
@@ -76,7 +76,7 @@ So you have a channel (you can create one with `/join #<channel-name>`), and you
 All you need to do to register a channel is:
 
 ~~~
-/msg ChanServ REGISTER #<name-of-channel>
+/msg ChanServ REGISTER #<channel-name>
 ~~~
 
 And that's it! ChanServ should join and set owner mode (+q) on you.
@@ -135,7 +135,7 @@ If you would like to auto-op network staff, you can do:
 !flags $oper +Oo
 ~~~
 
-*This is an EXTTARGET. EXTTARGETs allow you to set flags on a more general group of users. Another target,  `$registered` allows you to apply flags to all identified users.*
+*This is an EXTTARGET. EXTTARGETs allow you to set flags on a more general group of users. Another target,  `$registered`, allows you to apply flags to all identified users.*
 
 For example, if you want to auto-voice all users identified with NickServ, you can do:
 
