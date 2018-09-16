@@ -1,0 +1,11 @@
+---
+layout: post
+title:  New logo
+date:   2018-09-16 20:00:00 +0000
+---
+
+xeroxIRC finally has a new logo, designed by xerox123!
+
+The logo has been applied to the site and our official TheLounge client.
+
+The new logo is copyright © 2018 by xerox123. All rights reserved.
