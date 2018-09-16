@@ -10,16 +10,19 @@ layout: compress
 <body>
     <div id="title">
         <h2>
-            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/logo.svg" alt="{{ site.title }}"
+                    class="u-max-full-width" />
+            </a>
         </h2>
     </div>
-    
+
     <nav>
         {% include pagelist.html %}
     </nav>
-    
+
     <main class="container">
-        {{ content }} 
+        {{ content }}
     </main>
 </body>
 
