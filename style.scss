@@ -7,40 +7,41 @@ nav {
     border-bottom: 1px solid #eee;
     margin-top: 25px;
     margin-bottom: 25px;
-    
+
     @media only screen and (min-width: 1000px) {
         position: sticky;
         top: -1px;
         background: #fff;
         z-index: 99;
     }
-    
+
     div {
         list-style-type: none;
         margin: 0;
         padding: 5px;
         padding-right: 0;
-        
+        text-align: center;
+
         span {
             display: inline;
             padding-right: 5px;
         }
-        
+
         .navsep {
             display: none;
         }
     }
-    
+
     a {
         color: #999;
-        
+
         display: inline-block;
         padding: 10px;
-        
+
         &.primary {
             color: #555;
         }
-        
+
         &:hover {
             color: #333;
             text-decoration: underline;
