@@ -23,7 +23,7 @@ If you disagree to any of the following, do not connect to xeroxIRC.
 
 **Usage of xeroxIRC is a privilege, not a right.**
 
-- xeroxIRC takes no responsibility for your actions.
+- xeroxIRC is a transit provider, no person or entity involved with xeroxIRC takes responsibility for users' actions.
 - n00by behaviour is discouraged in many channels.
 
 These Terms of Service can also be found on /motd.
