@@ -10,11 +10,12 @@ All servers have verified SSL certificates. We recommend you use SSL at all time
 
 The servers can be directly connected to using the following addresses:
 
- - `gb.xeroxirc.net` (v4) 6667 +6697
- - `nz.xeroxirc.net` (v4/v6) 6667 +6697
- - `ca.xeroxirc.net` (v4/v6) 6667 +6697
- - `ga.xeroxirc.net` (v4/v6) 6667 +6697
- - `us.xeroxirc.net` (v4/v6) 6667 +6697 *(Temporarily down)*
+ - `gb.xeroxirc.net`  (v4)     6667 +6697
+ - `nz.xeroxirc.net`  (v4/v6)  6667 +6697
+ - `ca.xeroxirc.net`  (v4/v6)  6667 +6697
+ - `ga.xeroxirc.net`  (v4/v6)  6667 +6697
+ - `tor.xeroxirc.net` (v4/v6) +6667 +6697 *(See [Tor Relay](/tor.md) for more information.)*
+ - `us.xeroxirc.net`  (v4/v6)  6667 +6697 *(Temporarily down)*
 
 *Some servers may be hidden from the above list as they are only for server-to-server connections.*
 
