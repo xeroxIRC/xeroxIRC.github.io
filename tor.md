@@ -5,7 +5,7 @@ layout: page
 
 #### Connection information
  - **Address**: `xeroxirc2ftim2zn.onion`
- - **Ports**: Plaintext: *None* | TLS: `6667` & `6697`
+ - **Ports**: Plaintext: *None* **\|** TLS: `6667` & `6697`
 
 
 ##### Details
