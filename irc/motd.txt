@@ -1,10 +1,9 @@
-WELCOME TO...                                           \c02ooooo ooooooooo.     .oooooo.
-                                                        \c02`888' `888  `Y88.  d8P'  `Y8b
-   \c15oooo    ooo  \c02.ooooo.  \c14oooo d8b  \c11.ooooo.  \c15oooo    ooo  \c02888   888   .d88' 888
-    \c15`88b..8P'  \c02d88' `88b \c14`888""8P \c11d88' `88b  \c15`88b..8P'   \c02888   888ooo88P'  888
-      \c15Y888'    \c02888ooo888  \c14888     \c11888   888    \c15Y888'     \c02888   888`88b.    888
-    \c15.o8"'88b   \c02888    .o  \c14888     \c11888   888  \c15.o8"'88b    \c02888   888  `88b.  `88b    ooo
-   \c15o88'   888o \c02`Y8bod8P' \c14d888b    \c11`Y8bod8P' \c15o88'   888o \c02o888o o888o  o888o  `Y8bood8P'\x
+WELCOME TO...             \c02_____ _____   _____
+                         \c02|_   _|  __ \ / ____|
+ \c14__  _____ _ __ _____  __  \c02| | | |__) | |
+ \c14\ \/ / _ \ '__/ _ \ \/ /  \c02| | |  _  /| |
+  \c14>  <  __/ | | (_) >  <  \c02_| |_| | \ \| |____
+ \c14/_/\_\___|_|  \___/_/\_\\c02|_____|_|  \_\\\_____|\x
 
 THIS SERVER'S INFORMATION: \b• Location: London, UK\x
                            \b• Port(s) : 6667, SSL 6697\x
@@ -13,20 +12,20 @@ THIS SERVER'S INFORMATION: \b• Location: London, UK\x
 \b\c04TERMS OF SERVICE:\x
 
 \c04By connecting to this network, you agree to all of the below.\x
-\c04If you disagree to any of the following, please disconnect now...\x
+\c04If you disagree to any of the following, please disconnect now.\x
+\c04These terms may be updated at any time with or without notice.\x
+\c04You are bound by the latest version of these terms whenever you are using this service.\x
 
-1)  Network staff may disconnect clients for when rules are being broken.
-2)  No use of botnets.
-3)  No network/channel ban evasion.
-4)  If a member of Network staff says something isn't allowed, it ISN'T allowed.
-5)  No spamming/flooding/AMSGing.
-6)  No channel takeovers.
-7)  A member of Network staff may join a channel with +Y when network rules are
-    suspected of being broken.
-8)  No harassing other users.
-9)  You are responsible for all actions you take.
-10) No abuse of proxies/VPNs. Such uses must be reported in #staff
-11) Valid E-Mails must be used when registering. Disposable E-Mails are \bNOT\b allowed.
+1) Network staff may disconnect clients for any or no reason.
+2) No use of botnets.
+3) No network/channel ban evasion.
+4) If a member of Network staff says something isn't allowed, it ISN'T allowed.
+5) No spamming/flooding/AMSGing.
+6) A member of Network staff may forcibly join a channel when network rules are
+   suspected of being broken.
+7) You are responsible for all actions you make.
+8) No abuse of proxies/VPNs. Such uses must be reported in #staff
+9) Valid E-Mails must be used when registering. Disposable E-Mails are \bNOT\b allowed.
 
 \bUsage of xeroxIRC is a privilege, not a right.\x
 \bxeroxIRC is a transit provider, no person or entity involved with xeroxIRC takes responsibility for users' actions.\x
