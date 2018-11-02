@@ -32,7 +32,7 @@ THIS SERVER'S INFORMATION: \b• Location: London, UK\x
 \bn00by behaviour is discouraged in many channels.\x
 \bSponsored message from Plebs: Resistance is futile™. -- Plebs 2018\x
 
-These Terms of Service can be found at https://www.xeroxirc.net/tos or /MOTD
+These Terms of Service can be found at \bhttps://www.xeroxirc.net/tos\b or \b/motd\b
 
 LINKS: • \bOfficial Network Channels\x can be found at\b https://www.xeroxirc.net/channels \x
        • \bOfficial Network Staff\x can be found at\b https://www.xeroxirc.net/staff \x
