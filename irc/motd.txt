@@ -30,7 +30,7 @@ THIS SERVER'S INFORMATION: \b• Location: London, UK\x
 \bUsage of xeroxIRC is a privilege, not a right.\x
 \bxeroxIRC is a transit provider, no person or entity involved with xeroxIRC takes responsibility for users' actions.\x
 \bn00by behaviour is discouraged in many channels.\x
-\bMerry Christmas and happy new year!\x
+\bMerry Christmas and Happy New Year!\x
 
 These Terms of Service can be found at \bhttps://www.xeroxirc.net/tos\b or \b/motd\b
 
