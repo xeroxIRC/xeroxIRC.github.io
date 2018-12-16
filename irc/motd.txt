@@ -1,20 +1,20 @@
-WELCOME TO...             \c02_____ _____   _____
-                         \c02|_   _|  __ \ / ____|
- \c14__  _____ _ __ _____  __  \c02| | | |__) | |
- \c14\ \/ / _ \ '__/ _ \ \/ /  \c02| | |  _  /| |
-  \c14>  <  __/ | | (_) >  <  \c02_| |_| | \ \| |____
- \c14/_/\_\___|_|  \___/_/\_\\c02|_____|_|  \_\\\_____|\x
+WELCOME TO...             \c04_____ _____   _____
+                         \c04|_   _|  __ \ / ____|
+ \c03__  _____ _ __ _____  __  \c04| | | |__) | |
+ \c03\ \/ / _ \ '__/ _ \ \/ /  \c04| | |  _  /| |
+  \c03>  <  __/ | | (_) >  <  \c04_| |_| | \ \| |____
+ \c03/_/\_\___|_|  \___/_/\_\\c04|_____|_|  \_\\\_____|\x
 
 THIS SERVER'S INFORMATION: \b• Location: London, UK\x
                            \b• Port(s) : 6667, SSL 6697\x
                            \b• Admin(s): xerox123\x
 
-\b\c04TERMS OF SERVICE:\x
+\b\c03TERMS OF SERVICE:\x
 
 \c04By connecting to this network, you agree to all of the below.\x
-\c04If you disagree to any of the following, please disconnect now.\x
+\c03If you disagree to any of the following, please disconnect now.\x
 \c04These terms may be updated at any time with or without notice.\x
-\c04You are bound by the latest version of these terms whenever you are using this service.\x
+\c03You are bound by the latest version of these terms whenever you are using this service.\x
 
 1) Network staff may disconnect clients for any or no reason.
 2) No use of botnets.
@@ -30,7 +30,7 @@ THIS SERVER'S INFORMATION: \b• Location: London, UK\x
 \bUsage of xeroxIRC is a privilege, not a right.\x
 \bxeroxIRC is a transit provider, no person or entity involved with xeroxIRC takes responsibility for users' actions.\x
 \bn00by behaviour is discouraged in many channels.\x
-\bSponsored message from Plebs: Resistance is futile™. -- Plebs 2018\x
+\bMerry Christmas and happy new year!\x
 
 These Terms of Service can be found at \bhttps://www.xeroxirc.net/tos\b or \b/motd\b
 
