@@ -9,4 +9,4 @@ The xeroxIRC website has been updated, and is now using Jekyll!
 All the old WordPress links will continue to function, and will redirect to the
 new URLs.
 
-The new site design is © 2018 by luk3yx. All rights reserved.
+The new site design is © 2019 by luk3yx. All rights reserved.
