@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Dark mode
+date:   2019-02-23 21:12:36 +0000
+---
+
+```
+<xerox123> luk3yx: because it's 2019 everything needs dark mode, so does the website
+<luk3yx> xerox123: And how to you propose we do that without JS?
+<xerox123> sorry, miswrote that
+<xerox123> everything should be in darkmode 24/7
+```

@@ -2,16 +2,21 @@
 # SCSS
 ---
 
+body {
+    background: #222;
+    color: #ddd;
+}
+
 nav {
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
     margin-top: 25px;
     margin-bottom: 25px;
 
     @media only screen and (min-width: 1000px) {
         position: sticky;
         top: -1px;
-        background: #fff;
+        background: #222;
         z-index: 99;
     }
 
@@ -33,17 +38,17 @@ nav {
     }
 
     a {
-        color: #999;
+        color: #888;
 
         display: inline-block;
         padding: 10px;
 
         &.primary {
-            color: #555;
+            color: #bbb;
         }
 
         &:hover {
-            color: #333;
+            color: #bbb;
             text-decoration: underline;
         }
     }
@@ -53,7 +58,7 @@ nav {
     text-align: center;
     padding-top: 10px;
     a {
-        color: #000;
+        color: #fff;
     }
 }
 
@@ -64,7 +69,7 @@ nav {
 }
 
 iframe {
-    border: 1px solid #eee;
+    border: 1px solid #111;
     border-radius: 5px;
     width: 100%;
     height: 500px;
@@ -80,10 +85,33 @@ pre > code {
     white-space: pre-wrap;
 }
 
+code {
+    background: #111;
+    border-color: #1e1e1e;
+}
+
 table {
     display: block;
     max-width: 100%;
     overflow-x: auto;
     border-spacing: 0px;
-    tbody tr:hover {background-color: #f5f5f5;};
+
+    tbody {
+        tr:hover {background-color: #1a1a1a;}
+
+        td {
+            border-color: #333;
+        }
+    }
+}
+
+.button, button, input[type="button"], input[type="reset"],
+  input[type="submit"] {
+    color: #aaa;
+    border-color: #aaa;
+
+    &:hover {
+        color: #fff;
+        border-color: #fff;
+    }
 }
