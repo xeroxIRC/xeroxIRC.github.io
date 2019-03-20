@@ -22,7 +22,6 @@ Global OPs are responsible for helping users and ensuring network rules are bein
 
 - bigfoot
 - DI3HARD139
-- jcjordyn120
 - luk3yx
 
 Server Admins are responsible for managing server infrastructure.
