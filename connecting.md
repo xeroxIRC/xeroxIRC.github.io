@@ -6,7 +6,8 @@ navbar-index: 2
 
 To connect to xeroxIRC, use **[xeroxirc.net](ircs://xeroxirc.net)**. Most of our servers are listening on ports 6667 and 6697 for SSL/TLS, with the exception of `tor.xeroxirc.net` where only SSL/TLS is available.
 
-**All servers have verified SSL certificates.** We recommend you use SSL/TLS at all times unless you have a good reason not to.
+**All servers have verified SSL certificates.** We recommend you use SSL/TLS at all times unless you have a good reason not to. You can view instructions on
+how to enable TLS/SSL [here](use-tls).
 
 The servers can be directly connected to using the following addresses:
 
