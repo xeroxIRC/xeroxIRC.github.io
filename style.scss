@@ -110,8 +110,13 @@ table {
     color: #aaa;
     border-color: #aaa;
 
-    &:hover {
+    &:hover, &:active {
         color: #fff;
         border-color: #fff;
     }
+}
+
+// This fixes a glitch on Safari.
+input[type="submit"] {
+    -webkit-appearance: none;
 }
