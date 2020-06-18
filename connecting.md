@@ -13,11 +13,10 @@ The servers can be directly connected to using the following addresses:
 
 | Address            | IPv6? | Port | SSL/TLS Port(s) | Notes                                         |
 |--------------------|-------|------|-----------------|-----------------------------------------------|
-| `gb.xeroxirc.net`  | No    | 6667 | +6697           |                                               |
-| `nz.xeroxirc.net`  | Yes   | 6667 | +6697           |                                               |
-| `ca.xeroxirc.net`  | Yes   | 6667 | +6697           |                                               |
 | `ga.xeroxirc.net`  | Yes   | 6667 | +6697           |                                               |
-| `tor.xeroxirc.net` | Yes   | None | +6667, +6697    | *See [Tor Relay](/tor) for more information.* |
+| `gb.xeroxirc.net`  | No    | 6667 | +6697           |                                               |
+| `us.xeroxirc.net`  | No    | 6667 | +6697           |                                               |
+| `tor.xeroxirc.net` | N/A   | None | +6667, +6697    | *See [Tor Relay](/tor) for more information.* |
 
 *Some servers may be hidden from the above list as they are only for server-to-server connections.*
 
