@@ -36,6 +36,6 @@
         Workaround for the lack of any HTTP to HTTPS redirect.
     {% endcomment %}
     <script async>
-        if (request.protocol == "http:") request.protocol = "https:";
+        if (location.protocol == "http:") location.protocol = "https:";
     </script>
 </head>
