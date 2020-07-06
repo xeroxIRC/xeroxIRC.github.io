@@ -31,4 +31,11 @@
     <meta name="msapplication-TileColor" content="#1000ff" />
     <meta name="msapplication-config" content="favicons/browserconfig.xml" />
     <meta name="theme-color" content="#222222" />
+
+    {% comment %}
+        Workaround for the lack of any HTTP to HTTPS redirect.
+    {% endcomment %}
+    <script async>
+        if (request.protocol == "http:") request.protocol = "https:";
+    </script>
 </head>
