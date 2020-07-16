@@ -7,7 +7,9 @@ ads: true
 
 This page explains how to use IRC services. If you need any help, please join #help and ask.
 
+{% comment %}
 Don't like typing long commands, or do you prefer a GUI? Try the [Services Web Interface]({{ site.swi_baseurl }}/swi)!
+{% endcomment %}
 
 *Fields indicated by <> means you need to enter your own information relevant to you.*
 
