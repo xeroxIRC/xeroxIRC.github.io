@@ -14,7 +14,7 @@ The servers can be directly connected to using the following addresses:
 | Address            | IPv6? | Port | SSL/TLS Port(s) | Notes                                         |
 |--------------------|-------|------|-----------------|-----------------------------------------------|
 | `ga.xeroxirc.net`  | Yes   | 6667 | +6697           |                                               |
-| `gb.xeroxirc.net`  | No    | 6667 | +6697           |                                               |
+| `gb.xeroxirc.net`  | No    | 6667 | +6697           | Currently down                                |
 | `us.xeroxirc.net`  | No    | 6667 | +6697           |                                               |
 | `tor.xeroxirc.net` | N/A   | None | +6667, +6697    | *See [Tor Relay](/tor) for more information.* |
 
