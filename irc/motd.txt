@@ -28,7 +28,7 @@ THIS SERVER'S INFORMATION: \b• Location: London, UK\x
 9) Valid E-Mails must be used when registering. Disposable E-Mails are \bNOT\b allowed.
 
 \bUsage of xeroxIRC is a privilege, not a right.\x
-\bxeroxIRC is a transit provider, no person or entity involved with xeroxIRC takes responsibility for users' actions.\x
+\bxeroxIRC is a transit provider, no person or entity involved with xeroxIRC takes responsibility for users' actions. This includes, but is not limited to, the logging of messages.\x
 \bn00by behaviour is discouraged in many channels.\x
 
 These Terms of Service can be found at \bhttps://www.xeroxirc.net/tos\b or \b/motd\b
