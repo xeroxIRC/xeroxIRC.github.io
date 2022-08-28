@@ -14,9 +14,6 @@ To join a channel, type `/join <name of channel>` into your IRC client.
 |-------------------|---------------------------------------------------------------------------------------------|
 | [#BlockySurvival] | A unique Minetest server owned by BillyS.                                                   |
 | #help             | Network help. If you have any IRC-related questions, here’s the place to ask them.          |
-| [#IdleRPG]        | Home of the xeroxIRC IdleRPG bot. All you have to do to play is idle!                       |
-| #pk               | The home of a medieval kingdom vs kingdom Minetest server.                                  |
 | #xeroxIRC         | Network chat.                                                                               |
 
-[#BlockySurvival]:      https://mt.packets4hire.com
-[#IdleRPG]:             {{ site.irpg_baseurl }}/irpg
+[#BlockySurvival]: https://forum.minetest.net/viewtopic.php?t=20416
