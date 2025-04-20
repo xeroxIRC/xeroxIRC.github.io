@@ -1,3 +1,5 @@
+Note that this license only applies to code files and not images.
+
 # The MIT License (MIT)
 
 Copyright © 2019 by luk3yx
